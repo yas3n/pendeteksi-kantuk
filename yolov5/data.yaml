@@ -1,0 +1,13 @@
+names:
+- bangun
+- kantuk
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: kantuk-project
+  url: https://universe.roboflow.com/yaseen-xpttf/kantuk-project/dataset/1
+  version: 1
+  workspace: yaseen-xpttf
+test: ../test/images
+train: kantuk-project-1/train/images
+val: kantuk-project-1/valid/images
